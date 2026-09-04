@@ -72,9 +72,7 @@ This is an access oriented research prototype, not evidence of improved learning
 ## BitBlocks in action
 
 <p align="center">
-  <a href="docs/media/bitblocks-demo.mp4">
-    <img src="docs/media/bitblocks-video-preview.jpg" alt="BitBlocks demonstration video preview" width="420">
-  </a>
+  <img src="docs/media/bitblocks-preview.gif" alt="Animated demonstration of BitBlocks running on its touchscreen hardware" width="280">
 </p>
 
 <p align="center"><strong>Watch BitBlocks in action</strong></p>
