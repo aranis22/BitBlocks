@@ -4,11 +4,25 @@
 
 BitBlocks is an application within the broader [BitSlate](https://github.com/aranis22/bitslate-firmware) educational-computing project. This repository contains focused public documentation and media for BitBlocks; its implementation is developed in the BitSlate firmware repository.
 
+## Media
+
+<p align="center">
+  <img src="docs/media/bitblocks-hardware.png" alt="BitBlocks running on its ESP32-S3 touchscreen hardware" width="600">
+</p>
+
+<p align="center"><em>The editor running directly on the target touchscreen hardware.</em></p>
+
 <p align="center">
   <img src="docs/media/bitblocks-preview.gif" alt="Animated demonstration of BitBlocks running on its touchscreen hardware" width="280">
 </p>
 
-<p align="center"><em>BitBlocks running on the target ESP32-S3 touchscreen device.</em></p>
+<p align="center"><em>Animated BitBlocks editor demonstration.</em></p>
+
+<p align="center">
+  <img src="docs/media/bitblocks-editor.png" alt="Annotated BitBlocks desktop editor layout" width="760">
+</p>
+
+<p align="center"><em>The desktop interaction prototype used to specify the embedded editor.</em></p>
 
 ## What it is
 
@@ -175,16 +189,3 @@ The branch configuration targets `esp32-s3-devkitc-1`, enables octal PSRAM, uses
 
 Conference: SIGCSE Virtual 2026, Poster
 
-## Media
-
-<p align="center">
-  <img src="docs/media/bitblocks-hardware.png" alt="BitBlocks running on its ESP32-S3 touchscreen hardware" width="600">
-</p>
-
-<p align="center"><em>The editor running directly on the target touchscreen hardware.</em></p>
-
-<p align="center">
-  <img src="docs/media/bitblocks-editor.png" alt="Annotated BitBlocks desktop editor layout" width="760">
-</p>
-
-<p align="center"><em>The desktop interaction prototype used to specify the embedded editor.</em></p>
