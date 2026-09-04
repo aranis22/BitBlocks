@@ -171,7 +171,7 @@ The branch configuration targets `esp32-s3-devkitc-1`, enables octal PSRAM, uses
 
 **BitBlocks: A Fully Offline Block-Coding Environment on a Microcontroller-Class Device**
 
-[Read the paper](docs/papers/BitBlocks.pdf)
+[Read the paper](BitBlocks.pdf)
 
 Conference: SIGCSE Virtual 2026, Poster
 
